@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "Hello world project for web and mobile.",
+  "display": "standalone",
+  "lang": "en",
+  "name": "www.aikoja.fi",
+  "short_name": "www.aikoja.fi",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
